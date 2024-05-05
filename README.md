@@ -9,18 +9,18 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1. Import the necessary python packages
-2.Read the dataset.
-3.Define X and Y array.
-4.Define a function for costFunction,cost and gradient.
-5.Define a function to plot the decision boundary and predict the Regression value
+2. Read the dataset.
+3. Define X and Y array.
+4. Define a function for costFunction,cost and gradient.
+5. Define a function to plot the decision boundary and predict the Regression value
  
 
 ## Program:
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: 
-RegisterNumber:  
+Developed by:**Malarvizhi g** 
+RegisterNumber:**212222040096**  
 */
 ```
 ```
